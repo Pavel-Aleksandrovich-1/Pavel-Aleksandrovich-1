@@ -9,4 +9,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=760FF0) 
 ![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=197098) 
 
-
+## Socials:
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=47C357)](https://web.whatsapp.com/@89831625959)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5562EA)](https://discord.com/channels/@Pavel-Aleksandrovich#2726)
+[![vkontacte](https://img.shields.io/badge/-vkontacte-090909?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/development_web_1)
