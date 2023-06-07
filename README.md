@@ -2,7 +2,7 @@
 
 ## *I'm Aleksandrovich, Front-End Developer🎩*
 
-### Technology Stack:
+### *Technology Stack:*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#0E0E0E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#0E0E0E)
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=REACT&logoColor=#0E0E0E)
@@ -10,7 +10,7 @@
 ![Node](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=#0E0E0E)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=#0E0E0E)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=#0E0E0E)
-### Socials:
+### *Socials:*
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=47C357)]( https://wa.me/79831625959)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5562EA)](https://discord.com/channels/@Pavel-Aleksandrovich#2726)
 [![vkontacte](https://img.shields.io/badge/-vkontacte-090909?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/development_web_1)
