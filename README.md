@@ -15,3 +15,6 @@
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5562EA)](https://discord.com/channels/@Pavel-Aleksandrovich#2726)
 [![vkontacte](https://img.shields.io/badge/-vkontacte-090909?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/development_web_1)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=119FE0)](https://t.me/pavel_aleksandrovich_8)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavel-Aleksandrovich-1&show_icons=true&theme=transparent&count_private=true)
