@@ -3,10 +3,11 @@
 ## Hello, I'm Aleksandrovich, Front-End Developer🎩
 
 ### Technology Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#0E0E0E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#0E0E0E)
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=REACT&logoColor=#0E0E0E)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=#0E0E0E)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#0E0E0E)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#0E0E0E)
+![Node](https://img.shields.io/badge/-Node.JS-090909?style=for-the-badge&logo=Node&logoColor=#0E0E0E)
 
 ### Socials:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=47C357)]( https://wa.me/79831625959)
