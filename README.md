@@ -1,6 +1,6 @@
 [![Header](https://github.com/Pavel-Aleksandrovich-1/Pavel-Aleksandrovich-1/blob/main/assets/alefsandrovich%20(1).png)](https://drive.google.com/file/d/1xhq04QsyB_n3D8qo5OZcjCDKYcCkiKdo/view?usp=drive_link)
 
-## Hello, I'm Aleksandrovich, Front-End Developer🎩
+## I'm *Aleksandrovich*, *Front-End Developer*🎩
 
 ### Technology Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#0E0E0E)
