@@ -9,7 +9,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=#0E0E0E)
 ![Node](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=#0E0E0E)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=#0E0E0E)
-![AJAX](https://img.shields.io/badge/-AJAX-090909?style=for-the-badge&logo=AJAX&logoColor=#0E0E0E)
+![AJAX](https://img.shields.io/badge/-AJAX-090909?style=for-the-badge&logo=Ajax&logoColor=#0E0E0E)
 ### Socials:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=47C357)]( https://wa.me/79831625959)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=5562EA)](https://discord.com/channels/@Pavel-Aleksandrovich#2726)
