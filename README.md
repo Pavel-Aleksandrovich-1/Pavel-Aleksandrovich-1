@@ -3,7 +3,7 @@
 ## Hello, I'm Aleksandrovich, Front-End Developer🎩
 
 ### Technology Stack:
-![ReactJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=REACTJS&logoColor=#0E0E0E)
+![React](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=REACT&logoColor=#0E0E0E)
 
 ### Socials:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=47C357)]( https://wa.me/79831625959)
