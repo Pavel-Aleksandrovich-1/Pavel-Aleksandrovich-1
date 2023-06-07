@@ -16,6 +16,4 @@
 [![vkontacte](https://img.shields.io/badge/-vkontacte-090909?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/development_web_1)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=119FE0)](https://t.me/pavel_aleksandrovich_8)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavel-Aleksandrovich-1&show_icons=true&theme=transparent&count_private=true)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pavel-Aleksandrovich-1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pavel-Aleksandrovich-1&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
