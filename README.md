@@ -4,7 +4,7 @@
 
 ### Technology Stack:
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=REACT&logoColor=#0E0E0E)
-![ReduxToolkit ](https://img.shields.io/badge/-ReduxToolkit -090909?style=for-the-badge&logo=Redux-Toolkit &logoColor=#0E0E0E)
+![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit -090909?style=for-the-badge&logo=Redux-Toolkit &logoColor=#0E0E0E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#0E0E0E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#0E0E0E)
 
